@@ -1,1 +1,1 @@
-"# triple-x" 
+# triple-x
